@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style>
+	#DataTable {
+		font-family: arial, sans-serif;
+		border-collapse: collapse;
+		width: 50%;
+		margin:auto;
+	}
+
+	td, th {
+		font-family:koverwatch;
+		font-size:22px;
+		border: 1px solid black;
+		text-align: left;
+		padding: 8px;
+	}
+
+	tr:nth-child(even) {
+		background-color: #218ffe;
+	}
+	
+	tr:nth-child(odd) {
+		background-color: #ffc654;
+	}
+	
+	html{
+		background-color: #43484c;
+	
+	}
+	h1{
+		font-family: bignoodle;
+		font-size: 60px;
+		color: white;
+		text-align: center;
+		text-shadow: 1px 4px 1px black;
+	}
+	h2{
+		font-family: bignoodle;
+		font-size: 40px;
+		color: white;
+		text-align: center;
+		text-shadow: 1px 4px 1px black;
+	}
+	p{
+		font-family: bignoodle;
+		font-size: 27px;
+		color: white;
+		text-align: center;
+		text-shadow: -1px 2px 1px black;
+	}
+	
+	@font-face {
+		font-family:bignoodle;
+		src: url(bignoodletoo.ttf);
+		
+	}
+	@font-face {
+		font-family:koverwatch;
+		src: url(koverwatch.ttf);
+	}
+	
+	
+	
+	</style>
+</head>
+	<body>
+	<header>
+		<h1>Overwatch Hero Page</h1>
+		<p>This table displays the different statistics each hero has in the game Overwatch</p>
+	</header>
+	
+	<table id="DataTable">
+		<tr>
+			<th>Hero Name</th>
+			<th>Role Type</th>
+			<th>Health</th>
+			<th>Damage</th>
+			<th>Healing</th>
+			<th>Ultimate Ability</th>
+		</tr>
+	
+	</table>
+	
+	
+	<h2>Hero Chart</h2>
+	<p>This chart shows the 'Health', 'Damage', and 'Healing' statistics of each Overwatch hero</p>
+	<canvas id="heroChart"></canvas>
+	
+	
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.4.0/Chart.min.js"></script>
+	<script src=heroStats.js></script>
+	
+	</body>
+</html>

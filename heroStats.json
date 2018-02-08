@@ -1,0 +1,218 @@
+[
+  {
+    "name": "",
+    "type": "",
+    "health": "",
+    "damage": "",
+    "healing": "",
+    "ultimate_ability": ""
+  },
+  {
+    "name": "Ana",
+    "type": "Support",
+    "health": 200,
+    "damage": 70,
+    "healing": 75,
+    "ultimate_ability": "Sleep Dart"
+  },
+  {
+    "name": "Bastion",
+    "type": "Defense",
+    "health": 200,
+    "damage": 20,
+    "healing": "-",
+    "ultimate_ability": "Tank"
+  },
+  {
+    "name": "D.Va",
+    "type": "Tank",
+    "health": 400,
+    "damage": 2,
+    "healing": "-",
+    "ultimate_ability": "Self-Destruct"
+  },
+  {
+    "name": "Doomfist",
+    "type": "Offense",
+    "health": 250,
+    "damage": 66,
+    "healing": "-",
+    "ultimate_ability": "Meteor Strike"
+  },
+  {
+    "name": "Genji",
+    "type": "Offense",
+    "health": 250,
+    "damage": 28,
+    "healing": "-",
+    "ultimate_ability": "Dragonblade"
+  },
+  {
+    "name": "Hanzo",
+    "type": "Defense",
+    "health": 200,
+    "damage": 125,
+    "healing": "-",
+    "ultimate_ability": "Dragonstrike"
+  },
+  {
+    "name": "Junkrat",
+    "type": "Defense",
+    "health": 200,
+    "damage": 50,
+    "healing": "-",
+    "ultimate_ability": "Rip-Tire"
+  },
+  {
+    "name": "Lucio",
+    "type": "Support",
+    "health": 200,
+    "damage": 20,
+    "healing": 46,
+    "ultimate_ability": "Sound Barrier"
+  },
+  {
+    "name": "McCree",
+    "type": "Offense",
+    "health": 200,
+    "damage": 70,
+    "healing": "-",
+    "ultimate_ability": "Deadeye"
+  },
+  {
+    "name": "Mei",
+    "type": "Defense",
+    "health": 250,
+    "damage": 45,
+    "healing": "-",
+    "ultimate_ability": "Blizzard"
+  },
+  {
+    "name": "Mercy",
+    "type": "Support",
+    "health": 200,
+    "damage": 20,
+    "healing": 60,
+    "ultimate_ability": "Valkyrie"
+  },
+  {
+    "name": "Moira",
+    "type": "Support",
+    "health": 200,
+    "damage": 50,
+    "healing": 80,
+    "ultimate_ability": "Coalescence"
+  },
+  {
+    "name": "Orisa",
+    "type": "Tank",
+    "health": 400,
+    "damage": 11,
+    "healing": "-",
+    "ultimate_ability": "Supercharger"
+  },
+  {
+    "name": "Pharah",
+    "type": "Offense",
+    "health": 200,
+    "damage": 120,
+    "healing": "-",
+    "ultimate_ability": "Barrage"
+  },
+  {
+    "name": "Reaper",
+    "type": "Offense",
+    "health": 250,
+    "damage": 7,
+    "healing": "-",
+    "ultimate_ability": "Death Blossom"
+  },
+  {
+    "name": "Reinhardt",
+    "type": "Tank",
+    "health": 500,
+    "damage": 75,
+    "healing": "-",
+    "ultimate_ability": "Earthshatter"
+  },
+  {
+    "name": "Roadhog",
+    "type": "Tank",
+    "health": 600,
+    "damage": 50,
+    "healing": 300,
+    "ultimate_ability": "Whole Hog"
+  },
+  {
+    "name": "Soldier 76",
+    "type": "Offense",
+    "health": 200,
+    "damage": 19,
+    "healing": 40,
+    "ultimate_ability": "Tactical Visor"
+  },
+  {
+    "name": "Sombra",
+    "type": "Offense",
+    "health": 200,
+    "damage": 8,
+    "healing": "-",
+    "ultimate_ability": "EMP"
+  },
+  {
+    "name": "Symmetra",
+    "type": "Support",
+    "health": 200,
+    "damage": 15,
+    "healing": "-",
+    "ultimate_ability": "Teleporter/Shield Generator"
+  },
+  {
+    "name": "Torbjorn",
+    "type": "Defense",
+    "health": 200,
+    "damage": 70,
+    "healing": "-",
+    "ultimate_ability": "Molten Core"
+  },
+  {
+    "name": "Tracer",
+    "type": "Offense",
+    "health": 150,
+    "damage": 12,
+    "healing": "-",
+    "ultimate_ability": "Pulse Bomb"
+  },
+  {
+    "name": "Widowmaker",
+    "type": "Defense",
+    "health": 200,
+    "damage": 120,
+    "healing": "-",
+    "ultimate_ability": "Infra-Sight"
+  },
+  {
+    "name": "Winston",
+    "type": "Tank",
+    "health": 500,
+    "damage": 60,
+    "healing": "-",
+    "ultimate_ability": "Primal Rage"
+  },
+  {
+    "name": "Zarya",
+    "type": "Tank",
+    "health": 400,
+    "damage": 95,
+    "healing": "-",
+    "ultimate_ability": "Graviton Surge"
+  },
+  {
+    "name": "Zenyatta",
+    "type": "Support",
+    "health": 200,
+    "damage": 46,
+    "healing": 30,
+    "ultimate_ability": "Transcendence"
+  }
+]

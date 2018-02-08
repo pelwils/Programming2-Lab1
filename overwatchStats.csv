@@ -1,0 +1,28 @@
+name, type, health, damage, healing, ultimate_ability
+
+Ana, Support, 200, 70, 75, Sleep Dart
+Bastion, Defense, 200, 20, -, Tank
+D.Va, Tank, 400, 2, -, Self-Destruct
+Doomfist, Offense, 250, 66, -, Meteor Strike
+Genji, Offense, 250, 28, -, Dragonblade
+Hanzo, Defense, 200, 125, -, Dragonstrike
+Junkrat, Defense, 200, 50, -, Rip-Tire
+Lucio, Support, 200, 20, 46, Sound Barrier
+McCree, Offense, 200, 70, -, Deadeye
+Mei, Defense, 250, 45, -, Blizzard
+Mercy, Support, 200, 20, 60, Valkyrie
+Moira, Support, 200, 50, 80, Coalescence
+Orisa, Tank, 400, 11, -, Supercharger
+Pharah, Offense, 200, 120, -, Barrage
+Reaper, Offense, 250, 7, -, Death Blossom
+Reinhardt, Tank, 500, 75, -, Earthshatter
+Roadhog, Tank, 600, 50, 300, Whole Hog
+Soldier 76, Offense, 200, 19, 40, Tactical Visor
+Sombra, Offense, 200, 8, -, EMP
+Symmetra, Support, 200, 15, -, Teleporter/Shield Generator
+Torbjorn, Defense, 200, 70, -, Molten Core
+Tracer, Offense, 150, 12, -, Pulse Bomb
+Widowmaker, Defense, 200, 120, -, Infra-Sight
+Winston, Tank, 500, 60, -, Primal Rage
+Zarya, Tank, 400, 95, -, Graviton Surge
+Zenyatta, Support, 200, 46, 30, Transcendence
